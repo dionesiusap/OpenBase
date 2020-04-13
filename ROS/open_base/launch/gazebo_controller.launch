@@ -15,7 +15,7 @@
 	/>
 	<arg
 		name="paused"
-		default="true"
+		default="false"
 	/>
 	<arg
 		name="use_sim_time"

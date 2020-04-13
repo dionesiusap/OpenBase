@@ -18,7 +18,7 @@
 	/><!-- PID -->
 	<param
 		name="open_base/parameter/control/P"
-		value="5.0"
+		value="3.0"
 	/><!-- PID -->
 	<param
 		name="open_base/parameter/initial/x"
